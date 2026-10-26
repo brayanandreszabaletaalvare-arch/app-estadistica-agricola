@@ -1,8 +1,8 @@
 # App de Estadística Aplicada con Python y R — Ingeniería Agrícola (Unisucre)
 
-**Estudiante:** Nombres y apellidos
-**Código:** XXXXXXXXXX  ·  **Grupo:** 1 / 2
-**Cultivo asignado:** ______  ·  **Municipio:** ______  ·  **Huella:** ________
+**Estudiante:** brayan andres zabaleta alvarez
+**Código:** 1108761075  ·  **Grupo:** 1 / 2
+**Cultivo asignado:** ___ñame___  ·  **Municipio:** __tolu____  ·  **Huella:** __6A771D0B  ______
 **Docente:** Justo Fuentes  ·  **Semestre:** 2026-2
 
 ## Descripción
